@@ -16,6 +16,8 @@
             "outputPath": "dist/angular_router",
             "index": "src/index.html",
             "main": "src/main.ts",
+            "baseHref" : "/angular_router/",
+            "deployUrl": "/angular_router/",
             "polyfills": [
               "zone.js"
             ],
